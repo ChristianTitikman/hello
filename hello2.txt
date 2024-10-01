@@ -7,7 +7,14 @@ color:red;
 </style>
 <head>
 <body>
-<p>This is my first file</p>
+<p id="wew">This is my first file</p>
+
+
 </Html>
 </head>
+
+<script>
+
+	document.getElementById('wew').textContent = "This is p tag";
+</script>
 </body>
