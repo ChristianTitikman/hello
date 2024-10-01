@@ -1,4 +1,10 @@
 <Html>
+<style>
+p{
+color:red;
+}
+
+</style>
 <head>
 <body>
 <p>This is my first file</p>
